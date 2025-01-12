@@ -46,7 +46,7 @@ export default function About() {
               alt="Therapy Office"
               className="rounded-lg shadow-xl"
             />
-            <div className="absolute -bottom-6 -right-6 bg-primary text-primary-foreground p-6 rounded-lg shadow-lg">
+            <div className="absolute -bottom-6 -right-3 md:-right-6 bg-primary text-primary-foreground p-6 rounded-lg shadow-lg">
               <p className="text-lg font-semibold">Certified by:</p>
               <ul className="mt-2">
                 <li>American Psychological Association</li>
